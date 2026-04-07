@@ -1,0 +1,57 @@
+----:TELEGRAM CHAT STATS:----
+Total Messages : 42
+Total Words : 505
+Total Characters : 2382
+Total Days Talked : 1
+----------------------------------------------------------------------------------------------------
+-: Most Used Words :-
+have - 5
+i'll - 5
+bring - 5
+anyone - 4
+need - 4
+than - 3
+just - 3
+pure - 2
+math - 2
+with - 2
+----------------------------------------------------------------------------------------------------
+--: Averages :--
+-: Average Message Length :-
+56.71 Characters
+12.02 Words
+-: Averages Per Day :-
+42.0 Messages
+505.0 Words
+2382.0 Characters
+----------------------------------------------------------------------------------------------------
+-: Most Active Dates :-
+2026-04-07: 42 messages
+Jasurbek: 17
+Aziz: 11
+Madina: 7
+Farrukh (Mentor): 7
+
+----------------------------------------------------------------------------------------------------
+--: Per Person Stats :--
+-:Total Messages:-
+Jasurbek: 17
+Aziz: 11
+Madina: 7
+Farrukh (Mentor): 7
+-:Total Words:-
+Jasurbek: 206
+Aziz: 117
+Farrukh (Mentor): 98
+Madina: 84
+-:Total Characters:-
+Jasurbek: 964
+Aziz: 559
+Farrukh (Mentor): 481
+Madina: 378
+-:Top 5 Words Per Person:-
+Aziz: with (2), statistics (2), need (2), complex (1), integration (1)
+Farrukh (Mentor): have (3), don't (2), prep (2), data (2), olympiad (2)
+Jasurbek: i'll (4), using (2), better (2), than (2), just (2)
+Madina: anyone (2), solved (1), last (1), night. (1), trick (1)
+----------------------------------------------------------------------------------------------------
